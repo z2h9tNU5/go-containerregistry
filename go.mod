@@ -3,7 +3,7 @@ module github.com/z2h9tNU5/go-containerregistry
 go 1.25.6
 
 require (
-	github.com/google/go-containerregistry v0.21.0
+	github.com/google/go-containerregistry v0.21.1
 	github.com/hashicorp/go-version v1.8.0
 )
 
