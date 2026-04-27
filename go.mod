@@ -4,7 +4,7 @@ go 1.25.6
 
 require (
 	github.com/google/go-containerregistry v0.21.5
-	github.com/hashicorp/go-version v1.8.0
+	github.com/hashicorp/go-version v1.9.0
 )
 
 require (
